@@ -2,13 +2,17 @@
 DPA Neighborhood Calculation Code
 
 
+Download the example terrain and dlls (USGS). An invite will arrive from Kiteworks.
 
-First, check to see if ITM/Matlab is setup correctly.
+
+Check to see if ITM/Matlab is setup correctly.
 
 Run: https://github.com/nicklasorte/itm_matlab_example
 
 
 Then download the files from this repository.
+
+
 
 Two Step Process:
 
