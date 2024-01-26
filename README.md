@@ -12,13 +12,15 @@ Then download the files from this repository.
 
 Two Step Process:
 
-First run:
+First Step:
 
 https://github.com/nicklasorte/3.5GHz_CBRS_neighborhood/blob/main/init_sim_folder_rev1_east2_example.m
 
 
 
-Second run: 
+Second Step: 
+
+https://github.com/nicklasorte/3.5GHz_CBRS_neighborhood/blob/main/init_sim_folder_rev1_east2_example.m
 
 
 
