@@ -24,7 +24,7 @@ https://github.com/nicklasorte/3.5GHz_CBRS_neighborhood/blob/main/init_sim_folde
 
 Second Step: 
 
-https://github.com/nicklasorte/3.5GHz_CBRS_neighborhood/blob/main/init_sim_folder_rev1_east2_example.m
+https://github.com/nicklasorte/3.5GHz_CBRS_neighborhood/blob/main/init_run_neighborhood_rev1.m
 
 
 
